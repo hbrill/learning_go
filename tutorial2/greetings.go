@@ -1,4 +1,4 @@
-package greetings
+package tutorial2
 
 import "fmt"
 
